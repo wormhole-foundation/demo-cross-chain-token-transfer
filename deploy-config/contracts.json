@@ -1,0 +1,14 @@
+{
+  "6": {
+    "networkName": "Avalanche testnet fuji",
+    "CrossChainSender": "0xEed27AD1703a2F37d8cbC114923937E1ED55C919",
+    "deployedAt": "2024-09-16T14:56:41.143Z",
+    "CrossChainReceiver": "0x9A523a34B09D0fB64c91E7BE1e423BD51696ce63"
+  },
+  "14": {
+    "networkName": "Celo Testnet",
+    "CrossChainReceiver": "0xAcAEd991e7A8Bb62e3Aa14C4cd342dd1E9Eb351E",
+    "deployedAt": "2024-09-16T14:56:41.144Z",
+    "CrossChainSender": "0x15A5b4A69E32802090CAAdff05D6D7a1F6B2e19d"
+  }
+}
