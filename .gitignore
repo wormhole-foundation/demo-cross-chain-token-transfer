@@ -18,6 +18,3 @@ node_modules/
 
 # Package lock
 package-lock.json
-
-# Compiled files
-lib/
