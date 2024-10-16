@@ -15,7 +15,7 @@ Before using this project, make sure you have the following:
  **1. Clone the repository and navigate to the project directory:**
 
  ```bash
-   git clone https://github.com/martin0995/cross-chain-token-transfers
+   git clone https://github.com/wormhole-foundation/demo-cross-chain-token-transfer.git
    cd cross-chain-token-transfers
  ```
 
