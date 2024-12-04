@@ -2,6 +2,8 @@
 
 This repository demonstrates how to deploy and interact with smart contracts for transferring ERC-20 tokens across different blockchains using the Wormhole Protocol. Additionally, it provides a utility to verify whether a token is attested on the target chain before attempting a cross-chain transfer. This ensures that the token can be transferred smoothly across chains using the Wormhole Bridge.
 
+For a complete tutorial on performing cross-chain token transfers from scratch, please take a look at the [Wormhole Cross-Chain Token Transfer Tutorial](https://wormhole.com/docs/tutorials/messaging/cross-chain-token-contracts/).
+
 ## Prerequisites
 
 Before using this project, make sure you have the following:
